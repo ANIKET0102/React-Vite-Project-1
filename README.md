@@ -24,3 +24,36 @@ Explore the live version of the project here:
 
 Feel free to connect and reach out on LinkedIn:  
 [Aniket Pawar](https://www.linkedin.com/in/aniketpawar25/)
+
+
+## Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/ANIKET0102/React-Vite-Project-1.git
+Navigate to the project directory
+
+cd React-Vite-Project-1
+Install dependencies
+
+Make sure you have Node.js installed, then run:
+npm install
+Start the development server
+
+npm run dev
+Open your browser
+
+Visit http://localhost:5173 (or the URL shown in your terminal) to view the app.
+
+Build for production
+
+To create an optimized production build, run:
+npm run build
+Preview the production build locally
+
+(Optional) Run this to preview the built app:
+
+npm run preview
