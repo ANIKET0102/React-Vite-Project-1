@@ -1,12 +1,26 @@
-# React + Vite
+# React Vite Project 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fast, and optimized React application built using Vite and deployed on GitHub Pages.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was developed with React and Vite to take advantage of Vite's blazing-fast build and development environment. It demonstrates clean component architecture, efficient asset management, and seamless deployment on GitHub Pages. The project structure separates static assets in the `public` folder from React source code in the `src` directory, ensuring maintainability and scalability.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — Frontend library for building user interfaces  
+- **Vite** — Next-generation frontend tooling for fast builds and hot module replacement  
+- **JavaScript (ES6+)** — Modern JavaScript features and syntax  
+- **GitHub Pages** — Hosting and deployment platform for static sites  
+
+## Live Demo
+
+Explore the live version of the project here:  
+[https://aniket0102.github.io/React-Vite-Project-1/](https://aniket0102.github.io/React-Vite-Project-1/)
+
+---
+
+## Connect with Me
+
+Feel free to connect and reach out on LinkedIn:  
+[Aniket Pawar](https://www.linkedin.com/in/aniketpawar25/)
